@@ -1,4 +1,4 @@
-# Amazon Prime TV Show Analytics Dashboard using Power BI"
+# Amazon Prime TV Show Analytics Dashboard using Power BI
 Description of the Power BI Project:
 Data Visualization:
 
